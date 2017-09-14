@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ocorrencias.iml" filepath="$PROJECT_DIR$/.idea/modules/Ocorrencias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ocorrencias_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ocorrencias_main.iml" group="Ocorrencias" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ocorrencias_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ocorrencias_test.iml" group="Ocorrencias" />
+    </modules>
+  </component>
+</project>
